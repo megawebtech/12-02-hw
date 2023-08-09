@@ -7,7 +7,7 @@
 
 1.2. Создайте учётную запись sys_temp.
 
-create user 'sys_temp'@'localhost';
+create user 'sys_temp'@'localhost' identified by "my-secret-password";
 
 https://github.com/megawebtech/12-02-hw/blob/master/create_user.JPG
 
