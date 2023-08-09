@@ -50,6 +50,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 show tables;
 
+https://github.com/megawebtech/12-02-hw/blob/master/show_tables.JPG
+
+
 Диаграмма:
 
 https://github.com/megawebtech/12-02-hw/blob/master/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4.pdf
