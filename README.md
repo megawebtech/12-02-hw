@@ -66,3 +66,39 @@ https://github.com/megawebtech/12-02-hw/blob/master/%D0%B2%D1%8B%D0%B2%D0%BE%D0%
 
 Название таблицы | Название первичного ключа
 customer         | customer_id
+
+
+Таблица:
+
+Название таблицы	Название первичного ключа
+customer        	customer_id
+payment         	payment_id
+rental          	rental_id
+store           	store_id
+staff   	        staff_id
+address	                address_id
+inventory       	inventory_id
+film             	film_id
+actor           	actor_id
+actor_info	
+category        	category_id
+city            	city_id
+country         	country_id
+customer_list	
+film_actor      	actor-id category_id
+film_category    	film_id category_id
+film_list	
+film_text       	film_id
+language        	language_id
+nicer_but_slower_film_list	
+sales_by_film_category	
+sales_by_store	
+staff_list	
+
+
+ссылка на excel файл:
+
+https://github.com/megawebtech/12-02-hw/blob/master/hw_12-02_task2.xlsx
+
+
+Т.о. не все таблицы имеют праймери ки
